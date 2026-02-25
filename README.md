@@ -125,9 +125,20 @@ The assistant reads from docs.json file:
 
 ## Screenshots
 
-Add screenshots in a folder named "screenshots" and reference them like this:
-
+### 1. Chat Interface
 ![Chat UI](screenshots/chat-ui.png)
+
+### 2. New Chat Session
+![New Chat](screenshots/new-chat.png)
+
+### 3. Conversation Example
+![Conversation](screenshots/conversation.png)
+
+### 4. Invalid Question Response
+![Invalid Question](screenshots/invalid-question.png)
+
+### 5. Loading State
+![Loading](screenshots/loading.png)
 
 ---
 
